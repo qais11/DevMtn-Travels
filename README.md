@@ -47,7 +47,7 @@ A few things have been included for you
 * views - All of the views have been added for you. However you will need to add some angular markup to get them to work correctly i.e. ng-repeat,ng-click
 * app.js - Only the home state has been provided. It will be up to you to determine what else is necessary. Also, note that the $urlRouterProvider has already been configured to go to the homepage as a default.
 
-
+yguuug
 Take a look at how the routes are broken into folders. This is a very easy way to keep things modular!
 * 'styles/' folder -- stores all of our associated css files
 * 'img/' folder -- stores all of our associated images
